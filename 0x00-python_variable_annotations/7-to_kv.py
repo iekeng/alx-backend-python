@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 '''processes a mixed tuple'''
-from typing import List, Union, Tuple
+from typing import Union, Tuple
 
 
 def to_kv(k: str, v: Union[float, int]) -> Tuple[str, float]:
