@@ -1,4 +1,4 @@
-#!/usr/bin python3
+#!/usr/bin/env python3
 '''makes multiplier effect'''
 from typing import Callable
 
