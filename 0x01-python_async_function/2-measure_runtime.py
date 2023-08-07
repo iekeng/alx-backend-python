@@ -1,4 +1,4 @@
-#!/usr/bin/env pyhon3
+#!/usr/bin/env python3
 '''measure time taken to run a coroutine'''
 import asyncio
 import time
